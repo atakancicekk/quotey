@@ -1,6 +1,6 @@
 # quotey
 
-A new Flutter project.
+A new Flutter project that generates inspirational quotes with a click of a button using API.
 
 ## Getting Started
 
