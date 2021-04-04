@@ -2,15 +2,4 @@
 
 A new Flutter project that generates inspirational quotes with a click of a button using API.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="364" alt="Screen Shot 2021-04-04 at 12 24 38 PM" src="https://user-images.githubusercontent.com/55702254/113506068-2d4c6800-954b-11eb-941b-1164794ede40.png">
